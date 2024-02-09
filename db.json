@@ -1,1 +1,131 @@
-
+{
+  "students": [
+    {
+      "id": 1001,
+      "first_name": "Eva",
+      "last_name": "Rodriguez",
+      "email": "eva.rodriguez@example.com",
+      "enrollment_date": "2022-09-15",
+      "courses": ["Physics201", "Chemistry301"],
+      "date_of_birth": "1997-04-25",
+      "major": "Physics",
+      "gpa": 3.7,
+      "address": {
+        "street": "222 Maple St",
+        "city": "ScienceCity",
+        "state": "CA"
+      }
+    },
+    {
+      "id": 1002,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "john.doe@example.com",
+      "enrollment_date": "2022-10-01",
+      "courses": ["ComputerScience301", "Math201"],
+      "date_of_birth": "1999-12-08",
+      "major": "Computer Science",
+      "gpa": 3.5,
+      "address": {
+        "street": "789 Oak Blvd",
+        "city": "TechVille",
+        "state": "NY"
+      }
+    },
+    {
+      "id": 1003,
+      "first_name": "Isabel",
+      "last_name": "Garcia",
+      "email": "isabel.garcia@example.com",
+      "enrollment_date": "2022-11-10",
+      "courses": ["English202", "History101"],
+      "major": "English",
+      "gpa": 3.4,
+      "address": {
+        "street": "555 Pine Rd",
+        "city": "LitCity",
+        "state": "TX"
+      }
+    },
+    {
+      "id": 1004,
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "email": "jane.smith@example.com",
+      "enrollment_date": "2022-12-05",
+      "courses": ["Math201", "Physics201"],
+      "date_of_birth": "1998-06-17",
+      "major": "Mathematics",
+      "gpa": 3.9,
+      "address": {
+        "street": "101 Cedar Ave",
+        "city": "MathCity",
+        "state": "CA"
+      }
+    },
+    {
+      "id": 1005,
+      "first_name": "Yuki",
+      "last_name": "Tanaka",
+      "email": "yuki.tanaka@example.com",
+      "enrollment_date": "2023-01-20",
+      "courses": ["Biology401", "Chemistry301"],
+      "date_of_birth": "1997-03-12",
+      "major": "Biology",
+      "gpa": 3.6,
+      "address": {
+        "street": "222 Elm Lane",
+        "city": "BioVille",
+        "state": "NY"
+      }
+    },
+    {
+      "id": 1006,
+      "first_name": "Robert",
+      "last_name": "Johnson",
+      "email": "robert.johnson@example.com",
+      "enrollment_date": "2022-03-10",
+      "courses": ["History101", "English202"],
+      "date_of_birth": "1996-02-18",
+      "major": "History",
+      "gpa": 3.2,
+      "address": {
+        "street": "789 Pine Rd",
+        "city": "Smalltown",
+        "state": "TX"
+      }
+    },
+    {
+      "id": 1007,
+      "first_name": "Samantha",
+      "last_name": "Williams",
+      "email": "samantha.williams@example.com",
+      "enrollment_date": "2022-04-05",
+      "courses": ["ComputerScience301", "Physics201"],
+      "date_of_birth": "1994-11-30",
+      "major": "Computer Science",
+      "gpa": 3.9,
+      "address": {
+        "street": "101 Cedar Ave",
+        "city": "TechCity",
+        "state": "CA"
+      }
+    },
+    {
+      "id": 1008,
+      "first_name": "Daniel",
+      "last_name": "Chen",
+      "email": "daniel.chen@example.com",
+      "enrollment_date": "2022-08-05",
+      "courses": ["Math201", "Chemistry301"],
+      "date_of_birth": "1998-07-12",
+      "major": "Mathematics",
+      "gpa": 3.6,
+      "address": {
+        "street": "555 Elm Lane",
+        "city": "MathVille",
+        "state": "NY"
+      }
+    }
+  ]
+}
